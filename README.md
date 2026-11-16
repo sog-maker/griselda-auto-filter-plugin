@@ -233,8 +233,8 @@ Windows version, your DAW and its version, and what you did before it happened.
 - **[Jost](https://github.com/indestructible-type/Jost)** by Indestructible Type and
   **[Poiret One](https://github.com/alexeiva/poiretone)** by Denis Masharov: the fonts
 - **[pluginval](https://github.com/Tracktion/pluginval)** by Tracktion: plug-in validation
-- **[Griselda Records](https://en.wikipedia.org/wiki/Griselda_Records)** from Buffalo, New York: the dark, gritty sound
-  that inspired the name and the look
+- **[Griselda Records](https://en.wikipedia.org/wiki/Griselda_Records)** from Buffalo, New York: their dark, gritty
+  sound was the inspiration for the sound of this plug-in, its name and its look
 
 ## Licence
 

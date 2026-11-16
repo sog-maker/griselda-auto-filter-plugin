@@ -234,8 +234,8 @@ Windows-Version, die DAW mit Version und die Schritte davor angeben.
 - **[Jost](https://github.com/indestructible-type/Jost)** von Indestructible Type und
   **[Poiret One](https://github.com/alexeiva/poiretone)** von Denis Masharov: die Schriften
 - **[pluginval](https://github.com/Tracktion/pluginval)** von Tracktion: Prüfung des Plug-ins
-- **[Griselda Records](https://de.wikipedia.org/wiki/Griselda_Records)** aus Buffalo, New York: der dunkle, raue Sound,
-  von dem Name und Look inspiriert sind
+- **[Griselda Records](https://en.wikipedia.org/wiki/Griselda_Records)** aus Buffalo, New York: ihr dunkler, rauer
+  Sound war die Inspiration für den Klang dieses Plug-ins, seinen Namen und seinen Look
 
 ## Lizenz
 
