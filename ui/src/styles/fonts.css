@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 100 900;
+  src: url('./fonts/Jost.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Poiret One';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fonts/PoiretOne.woff2') format('woff2');
+}
